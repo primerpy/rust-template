@@ -62,9 +62,7 @@ cargo install typos-cli
 cargo install git-cliff
 ```
 
-### 安装 cargo nextest
-
-cargo nextest 是一个 Rust 增强测试工具。
+### Install cargo nextest
 
 ```bash
 cargo install cargo-nextest --locked
