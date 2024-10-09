@@ -10,7 +10,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### Install VSCode Extensions
 
-- crates: Rust crates
+- crates: Rust crates (deprecated use dependi)
 - Even Better TOML: TOML support
 - Better Comments
 - Error Lens
